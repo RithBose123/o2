@@ -1,0 +1,47 @@
+ 
+.header{
+    background-color:#3abcd1;
+    display: flex;
+    justify-content: space-evenly;
+  font-family: fantasy;
+}
+body{
+    background-color: #808080
+}
+.link{
+    
+  
+    font-family: fantasy;
+    font-style: italic;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 1000px;
+}
+.Grid{
+    padding:35px;
+background-color: #1abcd2;
+    display:flex;
+    flex-wrap: wrap;
+    font-family: fantasy;
+    justify-content: space-evenly;
+}
+.Origami{
+    background-color:#ffffffb2; 
+    padding-top:45px;
+    margin-top: 30px;
+    margin: solid;
+    font-family: fantasy;
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+.Grid img{
+    background-color: #ffffffb2; 
+border:3px solid #000000;
+border-radius:20px;
+}
+.Menu{
+    font-family: fantasy;
+ 
+}
